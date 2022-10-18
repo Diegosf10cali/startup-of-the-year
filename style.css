@@ -1,0 +1,31 @@
+/*selector {
+	Propert:  value;
+}*/
+body {
+background-image: url(aydin-hassan-tBUjMcBNxtw-unsplash1.jpg)
+background-size: cover;
+}
+p {
+	 color: #F5DF95;
+	 text-align: center;
+	 border: 5px solid rgb(245, 223, 149, 0.5);
+	 cursor:pointer;
+}
+p {line-height: 50px;
+
+font-style: italic;
+font-weight: bold ;
+front-size: 100% ;
+font-family: 'Ibarra Real Nova', serif;
+	text transform : uppercase; 
+	
+	color: yellow;
+}
+img { float: right
+}
+p { color: green;}
+li { 
+list-style: none; 
+display:inline-block ;
+color: #F5DF95
+}
